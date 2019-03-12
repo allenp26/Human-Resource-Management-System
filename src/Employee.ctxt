@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Employee
+comment1.params=
+comment1.target=Employee()
+comment10.params=
+comment10.target=double\ calculateWeeklySal()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment12.params=o
+comment12.target=boolean\ equals(java.lang.Object)
+comment2.params=empName\ empId\ department
+comment2.target=Employee(java.lang.String,\ java.lang.String,\ Employee.Department)
+comment3.params=empName\ empId\ department\ weeklySal
+comment3.target=Employee(java.lang.String,\ java.lang.String,\ Employee.Department,\ double)
+comment4.params=otherEmployee
+comment4.target=Employee(Employee)
+comment5.params=
+comment5.target=java.lang.String\ getEmpName()
+comment6.params=
+comment6.target=java.lang.String\ getEmpId()
+comment7.params=
+comment7.target=Employee.Department\ getDepartment()
+comment8.params=
+comment8.target=double\ getWeeklySal()
+comment9.params=weeklySalary
+comment9.target=void\ setWeeklySal(double)
+numComments=13
